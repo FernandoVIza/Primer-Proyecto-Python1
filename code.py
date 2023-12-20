@@ -1,2 +1,2 @@
-print 'Hola Mundo'
-print 'Adios Mundo'
+print ('Hola Mundo')
+print ('Adios Mundo')
